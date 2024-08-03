@@ -29,15 +29,33 @@ Here is my attempt to clear up the confusion.
 Information about developing an APRS Internet Gateway ("IGate") exists but it is a little sparse.  For now, see [https://github.com/wb2osz/direwolf-doc/blob/main/Successful-APRS-IGate-Operation.pdf](https://github.com/wb2osz/direwolf-doc/blob/main/Successful-APRS-IGate-Operation.pdf)  for supplemental information.  Just ignore the parts mentioning direwolf.  Eventually, I should have a more generic version not revolving around one implementation.
 
 
-## Recommended Reading for all APRS Users##
+## Recommended Reading for all APRS Users ##
 
 The protocol specification can be confusing and difficult to digest.  A more gentle introduction can be found at:  [https://github.com/wb2osz/direwolf-doc/blob/main/Understanding-APRS-Packets.pdf](https://github.com/wb2osz/direwolf-doc/blob/main/Understanding-APRS-Packets.pdf)
 
 
+## How to Get Started in APRS ##
+
+How can a newcomer get started in APRS?  
+A web search produces mostly:
+
+- Overly technical information such as the protocol specification. 
+- Has outdated information.  (e.g,  you must buy a discontinued 1980s style TNC)
+- Only talks about trackers and aprs.fi.
+- Leads you to believe that buying a very expensive radio is only way to get started. 
+- Very brief description with a link to [aprs.org](http://www.aprs.org/) which would scare a beginner away.
+
+
+If you search YouTube, the top of the list is “APRS The Most Worthless Mode in Ham Radio”   with APRS = a pile of poo in the picture.  That’s not a good first impression.
+
+There are many interesting videos, but where does the newcomer start?  How would the newcomer know which were outdated or giving bad advice?
+
+This is a crowd-sourced list of the best resources for a beginner.
+
 
 ## Feedback ##
 
-The UNOFFICIAL Protocol Specification compilation is a DRAFT version with known issues.  Your feedback is welcome.  Errors should be reported here: [https://github.com/wb2osz/aprsspec/issues](https://github.com/wb2osz/aprsspec/issues)   for tracking.
+The UNOFFICIAL Protocol Specification compilation is a DRAFT version with known issues.  Your feedback is welcome.  Errors and suggestions for improvement should be reported here: [https://github.com/wb2osz/aprsspec/issues](https://github.com/wb2osz/aprsspec/issues)   for tracking.
 
 General discussions about the APRS Protocol should go to the discussion forum  [https://groups.io/g/APRS](https://groups.io/g/APRS)
 

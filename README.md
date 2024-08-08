@@ -16,12 +16,15 @@ APRS12b.pdf is DRAFT b of version 1.2.
 
 APRS12c.pdf is DRAFT c of version 1.2.  etc.
 
+A release version will drop the letter at the end.
+
+
 
 ## APRS Digipeater Algorithm ##
 
 Anyone wanting to understand how an APRS digipeater works faces a similar problem.  There was not a good definition.  It had to be pieced together from various places and reverse engineering poorly documented legacy 20th Century TNCs.  As a result, we see inconsistent, and sometimes very wrong implementations.
 
-Here is my attempt to clear up the confusion.
+Here is my attempt to clear up the confusion.  APRS-Digipeater-Algorithm.pdf
 
 
 ## APRS IGate Description ##
@@ -40,7 +43,7 @@ How can a newcomer get started in APRS?
 A web search produces mostly:
 
 - Overly technical information such as the protocol specification. 
-- Has outdated information.  (e.g,  you must buy a discontinued 1980s style TNC)
+- Has outdated information.  (e.g,  you must buy a legacy 1980s style TNC)
 - Only talks about trackers and aprs.fi.
 - Leads you to believe that buying a very expensive radio is only way to get started. 
 - Very brief description with a link to [aprs.org](http://www.aprs.org/) which would scare a beginner away.
@@ -50,7 +53,11 @@ If you search YouTube, the top of the list is “APRS The Most Worthless Mode in
 
 There are many interesting videos, but where does the newcomer start?  How would the newcomer know which were outdated or giving bad advice?
 
-This is a crowd-sourced list of the best resources for a beginner.
+How-to-Get-Started-in-APRS.pdf
+
+This is a crowd-sourced list of the best resources for a beginner.  Currently it is text file but should be moved to a wiki after it grows.
+
+A future project will be collecting links to slide shows suitable for presenting at a club meeting or convention.
 
 
 ## Feedback ##

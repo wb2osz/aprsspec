@@ -12,9 +12,9 @@ This is an independent UNOFFICIAL compilation of the original spec and all of th
 
 Naming convention:
 
-APRS12b.pdf is DRAFT b of version 1.2.
+[APRS12b.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12b.pdf) is DRAFT b of version 1.2.
 
-APRS12c.pdf is DRAFT c of version 1.2.  etc.
+[APRS12c.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12c.pdf) is DRAFT c of version 1.2.  etc.
 
 A release version will drop the letter at the end.
 
@@ -24,17 +24,17 @@ A release version will drop the letter at the end.
 
 Anyone wanting to understand how an APRS digipeater works faces a similar problem.  There was not a good definition.  It had to be pieced together from various places and reverse engineering poorly documented legacy 20th Century TNCs.  As a result, we see inconsistent, and sometimes very wrong implementations.
 
-Here is my attempt to clear up the confusion.  APRS-Digipeater-Algorithm.pdf
+Here is my attempt to clear up the confusion.  [APRS-Digipeater-Algorithm.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Digipeater-Algorithm.pdf)
 
 
 ## APRS IGate Description ##
 
-Information about developing an APRS Internet Gateway ("IGate") exists but it is a little sparse.  For now, see [https://github.com/wb2osz/direwolf-doc/blob/main/Successful-APRS-IGate-Operation.pdf](https://github.com/wb2osz/direwolf-doc/blob/main/Successful-APRS-IGate-Operation.pdf)  for supplemental information.  Just ignore the parts mentioning direwolf.  Eventually, I should have a more generic version not revolving around one implementation.
+Information about developing an APRS Internet Gateway ("IGate") exists but it is a little sparse.  For now, see [Successful-APRS-IGate-Operation.pdf](https://github.com/wb2osz/direwolf-doc/raw/main/Successful-APRS-IGate-Operation.pdf)  for supplemental information.  Just ignore the parts mentioning direwolf.  Eventually, I should have a more generic version not revolving around one implementation.
 
 
 ## Recommended Reading for all APRS Users ##
 
-The protocol specification can be confusing and difficult to digest.  A more gentle introduction can be found at:  [https://github.com/wb2osz/direwolf-doc/blob/main/Understanding-APRS-Packets.pdf](https://github.com/wb2osz/direwolf-doc/blob/main/Understanding-APRS-Packets.pdf)
+The protocol specification can be confusing and difficult to digest.  A more gentle introduction can be found at:  [Understanding-APRS-Packets.pdf](https://github.com/wb2osz/direwolf-doc/raw/main/Understanding-APRS-Packets.pdf)
 
 
 ## How to Get Started in APRS ##
@@ -53,7 +53,7 @@ If you search YouTube, the top of the list is “APRS The Most Worthless Mode in
 
 There are many interesting videos, but where does the newcomer start?  How would the newcomer know which were outdated or giving bad advice?
 
-How-to-Get-Started-in-APRS.pdf
+[How-to-Get-Started-in-APRS.pdf](https://github.com/wb2osz/direwolf-doc/raw/main/How-to-Get-Started-in-APRS.pdf)
 
 This is a crowd-sourced list of the best resources for a beginner.  Currently it is text file but should be moved to a wiki after it grows.
 

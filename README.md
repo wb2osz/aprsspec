@@ -52,6 +52,7 @@ APRS is generally transmitted as AX.25 Unnumbered Information (UI) frames.
 LoRa APRS uses plain text with the TNC-2 monitoring format.
 
 
+
 ## APRS Digipeater Algorithm ##
 
 The APRS Working Group never produced an APRS digipeater specification.  Probably because existing 1980s style packet radio TNCs were being re-purposed at the time.    Someone wanting to implement a digipeater  had to piece together clues from various places and imitate poorly documented legacy 20th Century TNCs developed long before the advent of the [WIDEn-N paradigm](http://www.aprs.org/fix14439.html).  As a result, we see inconsistent, and sometimes very wrong implementations.

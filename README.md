@@ -3,6 +3,56 @@
 It's hard to find good information on APRS.  A web search produces mostly outdated misinformation and little of value.  This is the beginning of a collection of the essential documentation.
 
 
+## What is APRS? ##
+
+In the words of its creator:
+
+
+> “**APRS is not a vehicle tracking system**. It is a two-way tactical real-time digital communications system between all assets in a network sharing information about everything going on in the local area. On ham radio, this means if something is happening now, or there is information that could be valuable to you, then it should show up on your APRS radio in your mobile.” 
+
+ -WB4APR (SK)
+
+Read more:  [What-is-APRS.pdf](https://github.com/wb2osz/aprsspec/raw/main/What-is-APRS.pdf)
+
+
+## The Best APRS Presentations ##
+
+Club meetings and ham conventions are always looking for speakers.  There was nothing about APRS during the 2024 Dayton forums.
+
+Suppose you wanted to give an APRS presentation at a club meeting or ham convention.  But...
+It's a big job. You are not sure where to start and would like to use / adapt something already done rather than starting from nothing.
+
+Where can you find suitable presentations?  I’ve tried searching and could not find much that was worthwhile.
+
+I’m throwing this out as a challenge to the APRS community.  Please help to make a list of the best presentations that others could use.  
+
+[The-Best-APRS-Presentations.pdf](https://github.com/wb2osz/aprsspec/raw/main/The-Best-APRS-Presentations.pdf)
+
+## How to Get Started in APRS ##
+
+How can a newcomer get started in APRS?  
+
+A web search produces mostly:
+
+- Very specialized such as the configuration of a specific radio.
+- Outdated information.  (e.g.  you must buy a legacy 1980s style TNC or references to software apps abandoned decades ago)
+- Only talks about trackers and aprs.fi.
+- Leads you to believe that buying a very expensive radio is only way to get started. 
+- Overly technical information such as the protocol specification. 
+- Very brief description with a link to [aprs.org](http://www.aprs.org/) which would scare a beginner away.
+
+
+If you search YouTube, the top of the list is “APRS The Most Worthless Mode in Ham Radio”   with APRS = a pile of poo in the picture.  That’s not a good first impression.
+
+There is some very good material out there, but how can the newcomer find it among all the clutter?
+
+[How-to-Get-Started-in-APRS.pdf](https://github.com/wb2osz/aprsspec/raw/main/How-to-Get-Started-in-APRS.pdf)
+
+This is a crowd-sourced list of the best resources for a beginner.  I need YOUR help to find the best resources.
+
+
+
+
 ## *** Recommended Reading for all APRS Users *** ##
 
 
@@ -64,42 +114,6 @@ Here is my attempt to clear up the confusion.  [APRS-Digipeater-Algorithm.pdf](h
 
 Information about developing an APRS Internet Gateway ("IGate") exists but it is a little sparse.  For now, see [Successful-APRS-IGate-Operation.pdf](https://github.com/wb2osz/direwolf-doc/raw/main/Successful-APRS-IGate-Operation.pdf)  for supplemental information.  Just ignore the parts mentioning direwolf.  Eventually, I should have a more generic version not revolving around one implementation.
 
-
-
-## The Best APRS Presentations ##
-
-Club meetings and ham conventions are always looking for speakers.  There was nothing about APRS during the 2024 Dayton forums.
-
-Suppose you wanted to give an APRS presentation at a club meeting or ham convention.  But...
-It's a big job. You are not sure where to start and would like to use / adapt something already done rather than starting from nothing.
-
-Where can you find suitable presentations?  I’ve tried searching and could not find much that was worthwhile.
-
-I’m throwing this out as a challenge to the APRS community.  Please help to make a list of the best presentations that others could use.  
-
-[The-Best-APRS-Presentations.pdf](https://github.com/wb2osz/aprsspec/raw/main/The-Best-APRS-Presentations.pdf)
-
-## How to Get Started in APRS ##
-
-How can a newcomer get started in APRS?  
-
-A web search produces mostly:
-
-- Very specialized such as the configuration of a specific radio.
-- Outdated information.  (e.g.  you must buy a legacy 1980s style TNC or references to software apps abandoned decades ago)
-- Only talks about trackers and aprs.fi.
-- Leads you to believe that buying a very expensive radio is only way to get started. 
-- Overly technical information such as the protocol specification. 
-- Very brief description with a link to [aprs.org](http://www.aprs.org/) which would scare a beginner away.
-
-
-If you search YouTube, the top of the list is “APRS The Most Worthless Mode in Ham Radio”   with APRS = a pile of poo in the picture.  That’s not a good first impression.
-
-There is some very good material out there, but how can the newcomer find it among all the clutter?
-
-[How-to-Get-Started-in-APRS.pdf](https://github.com/wb2osz/aprsspec/raw/main/How-to-Get-Started-in-APRS.pdf)
-
-This is a crowd-sourced list of the best resources for a beginner.  I need YOUR help to find the best resources.
 
 
 

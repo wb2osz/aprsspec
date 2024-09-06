@@ -71,6 +71,16 @@ You could try to digest the APRS Protocol Spec but that would probably give you 
 
 Be sure to read the part about the mistakes that people make.  Read this carefully if you don't want to end up as an example of what not to do.
 
+## APRS Thursday ##
+
+APRS Thursday is a net managed by Michael KC8OWL, held every Thursday with the aim of growing message activity on APRS across the world.  Many manufacturers are now including APRS functionality as a standard feature, making APRS more accessible, and hopefully more popular than ever.
+
+The APRS Thursday net is held each week on Thursday between the hours of 00:00:00UTC to 23:59:59UTC.
+Based on your browers locale, you can check into the net each week anytime between and in your local timezone. 
+
+For more information see:  [https://aprsph.net/aprsthursday/](https://aprsph.net/aprsthursday/)   or    [https://aprs.to/events/aprs_thursday/about/](https://aprs.to/events/aprs_thursday/about/) 
+
+
 
 ## Unofficial APRS Protocol Specification 1.2 ##
 

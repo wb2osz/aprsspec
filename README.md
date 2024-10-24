@@ -67,7 +67,7 @@ What is wrong with this packet?
 
     WA2GUG-15>TQ0V4V,TCPIP,WA2GUG-15,K1EQX-7,N3LLO-3,WIDE2*,RFONLY,NOGATE:}KB1CRN-14>TQ0V4V,WIDE1-1,WIDE2-1,WB2ZII-13,TCPIP,WA2GUG-15*:`e4Tp,Pu/`"4/}Keep on truckin`_1<0x20>
 
-You could try to digest the APRS Protocol Spec but that would probably give you an upset stomach.  And a headache.  A more gentle introduction can be found at:  [Understanding-APRS-Packets.pdf](https://github.com/wb2osz/direwolf-doc/raw/main/Understanding-APRS-Packets.pdf)
+You could try to digest the APRS Protocol Spec but that would probably give you an upset stomach.  And a headache.  A more gentle introduction can be found at:  [Understanding-APRS-Packets.pdf](https://github.com/wb2osz/aprsspec/raw/main/Understanding-APRS-Packets.pdf)
 
 Be sure to read the part about the mistakes that people make.  Read this carefully if you don't want to end up as an example of what not to do.
 
@@ -79,6 +79,13 @@ The APRS Thursday net is held each week on Thursday between the hours of 00:00:0
 Based on your browers locale, you can check into the net each week anytime between and in your local timezone. 
 
 For more information see:  [https://aprsph.net/aprsthursday/](https://aprsph.net/aprsthursday/)   or    [https://aprs.to/events/aprs_thursday/about/](https://aprs.to/events/aprs_thursday/about/) 
+
+
+## Contact the International Space Station (ISS) with APRS ##
+
+Did you know that the International Space Station (ISS) and some amateur satellites carry APRS digipeaters?  You don’t need fancy equipment to use the ISS digipeater.  I saw a video where someone was successful with an HT and a quarter wave whip antenna.  Of course a better antenna will increase your chances of success.
+
+Details:  [APRS-Digpeaters-in-Space.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Digpeaters-in-Space.pdf)
 
 
 

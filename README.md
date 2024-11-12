@@ -89,9 +89,9 @@ Details:  [APRS-Digpeaters-in-Space.pdf](https://github.com/wb2osz/aprsspec/raw/
 
 
 
-## Unofficial APRS Protocol Specification 1.2 ##
+## APRS Protocol Specification 1.2 ##
 
-The APRS Protocol Reference 1.0.1 was developed by the APRS Working Group and published in 2000.   
+The APRS Protocol Reference 1.0.1 was developed by the APRS Working Group and published in 2000.   A**PRS101.PDF is obsolete** and should not be used for implementation.
 
 In 2004, the Working Group approved a list of corrections, clarifications, and new features summarized here:  [http://www.aprs.org/aprs11.html](http://www.aprs.org/aprs11.html). Unfortunately they were never merged back into the original document.
  
@@ -99,7 +99,9 @@ Since that time all we have is a bunch of "proposals" from Bob WB4APR (SK) found
 
 APRS is still alive and well a quarter of a century later, with many new products, computer applications, and creative uses.  Implementation is more difficult and error prone with the information scattered around and incomplete.  Some people, trying to implement APRS, might not even know there were any updates since the original.  
 
-This is an independent UNOFFICIAL compilation of the original spec and all of the relevant updates since 2000.  This is not endorsed by the APRS Working Group and should not be considered to be the “official” specification.  The position of the APRS Working group is that the “official” documents are still the original spec and Bob’s version of the errata on his site. 
+This is an independent compilation of the original specification and all of the relevant updates since 2000.  This is not endorsed by the APRS Working Group.  The position of the APRS Working group is that the “official” version is still the original document and Bob’s version of the errata on his site. 
+
+Feedback is welcome.
 
 Naming convention:
 
@@ -107,7 +109,7 @@ Naming convention:
 
 [APRS12c.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12c.pdf) is DRAFT c of version 1.2.  etc.
 
-A release version will drop the letter at the end.
+A release version will drop the letter at the end.  
 
 
 ## AX.25 Protocol Specification 2.2, fourth edition ##

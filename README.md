@@ -60,6 +60,12 @@ You could try to digest the APRS Protocol Spec but that would probably give you 
 
 Be sure to read the part about the mistakes that people make.  Read this carefully if you don't want to end up as an example of what not to do.
 
+## APRS Symbols
+
+Reference table with Icons and on air encoding,  
+[APRS-Symbols.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Symbols.pdf)
+
+
 ## APRS Thursday
 
 APRS Thursday is a net managed by Michael KC8OWL, held every Thursday with the aim of growing message activity on APRS across the world.  Many manufacturers are now including APRS functionality as a standard feature, making APRS more accessible, and hopefully more popular than ever.
@@ -104,6 +110,7 @@ APRS is generally transmitted as AX.25 Unnumbered Information (UI) frames.
 [https://www.ax25.net/AX25.2.2-Jul%2098-2.pdf](https://www.ax25.net/AX25.2.2-Jul%2098-2.pdf)
 
 LoRa APRS uses plain text with the TNC-2 monitoring format.
+
 
 ## Minimizing APRS Collisions
 
